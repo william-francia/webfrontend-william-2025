@@ -1,4 +1,4 @@
-# Front-End Showcase Project
+# Front-End Project
 
 ## Live Pages
 
